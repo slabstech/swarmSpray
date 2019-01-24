@@ -1,0 +1,33 @@
+### Swarm Spray
+
+#### Precision Agriculture : Swarm drone based insecticide spraying
+
+
+
+
+
+We intend to solve the below issues.
+
+Usage of insecticide for agriculture has a destructive effect of the soil. 
+
+The existing method of using body-mounted hand-pump based system is inefficient in terms of
+* Insecticide quantity used
+* Sqaure area of land covered
+
+The ineffieciency is are dependent of the factors below
+* Human error
+* Wind direction
+* Distance between plants
+* Height of plants
+* Type of plants viz., large leaf, small leaf
+* Spray Nozzle
+
+On a conservative method/approach, the insecticide is sprayed ineffectively over an area 
+due to human error or field of view. 
+The error is could a due to a combination of factors viz.,
+* Fatigue
+* region of interest as a small dense area, cumbersome to traverse
+* Reduced plant to plant coverage due to height of plants
+
+
+
