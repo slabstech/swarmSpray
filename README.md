@@ -1,9 +1,15 @@
 ### Swarm Spray
 
-#### Precision Agriculture : Swarm drone based insecticide spraying
+#### Precision Agriculture : Swarm drone based insecticide spray using Off-the-Shelf components
 
+We propose a Swarm based micro-aerial drone robots, to spray instectides for precision agriculture.
 
+In this approach,
+A filled syringe is attached to the underbody of a micro-aerial drone. 
+The plunger is activated to spray the liquid using an electo-mechanical actuator.
 
+The target area is set based on the type of plant. Using CV the individual leaf/stalk is identified 
+and predetermined quantity is sprayed. 
 
 
 We intend to solve the below issues.
